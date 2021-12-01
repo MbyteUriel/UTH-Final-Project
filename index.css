@@ -11,7 +11,7 @@ body {
     background-color: #F1FAEE;
     color: #fff;
     font-size: 26px;
-  }
+  } 
   
   a {
     color: #ffffff;
@@ -46,37 +46,7 @@ body {
   
   .nav-main ul li a:hover {
     border-bottom: 2px solid #fff;
-  }
   
-
-  .nav-main ul.one{
-    position: absolute;
-    left: 2.01%;
-    right: 77.43%;
-    top: 29.85%;
-    bottom: 44.03%;
-    line-height: 44px
-  }
-  .nav-main ul.two{
-    position: absolute;
-    left: 33.26px;
-    right: 50.28px;
-    top: 35.07px;
-    bottom: 39.55px;
-  }
-  .nav-main ul.three{
-    position: absolute;
-    left: 60.35px;
-    right: 23.19px;
-    top: 34.33px;
-    bottom: 40.3px;
-  }
-  .nav-main ul.four{
-    position: absolute;
-    left: 88.06px;
-    right: 1.74px;
-    top: 33.58px;
-    bottom: 32.84px;
   }
   .section1 { 
     position: absolute; 
