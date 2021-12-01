@@ -22,7 +22,6 @@ body {
     list-style: none;
   }
   
-  /* Navigation */
   .nav-main {
     font-style: Bold;
     background-color: #1D3557;
@@ -81,17 +80,17 @@ body {
     top: 33.58px;
     bottom: 32.84px;
   }
-  .section1 {
+  .section1 { 
     position: absolute; 
     margin: 0;  
     padding: 0;
   }
   .title{
     position: absolute;
-    width: 777px;
-    height: 173px;
-    left: 78px;
-    top: 151px;
+    width: 600px;
+    height: 15px;
+    left: 100px;
+    top: 100px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
@@ -111,46 +110,41 @@ body {
     font-weight: 500;
     font-size: 16px;
     position: absolute;
-    width: 777px;
-    height: 309px;
-    left: 94px;
-    top: 302px;
+    width: 500px;
+    height: 100px;
+    left: 150px;
+    top: 230px;
     line-height: 32px;
     display: flex;
     align-items: center;
     text-align: justify;
     letter-spacing: 0.03em;
     color: #000000;
-    margin: 0;
-    padding: 0;
+   
   }
 
   .image1{
     position: absolute;
-    width: 372px;
-    height: 328px;
-    left: 991px;
-    top: 194px;
+    width: 300px;
+    height: 300px;
+    left: 900px;
+    top: 75px;
     background: #A8DADC;
     margin: 0;
     padding: 0;
   }
   .section2{
     position: absolute;
-    width: 1212px;
-    height: 378px;
-    left: 228px;
-    top: 544px;
     margin: 0;
     padding: 0;
   }
   
   .title2{
     position: absolute;
-    width: 777px;
-    height: 173px;
-    left: 663px;
-    top: 544px;
+    width: 600px;
+    height: 15px;
+    left: 950px;
+    top: 500px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
@@ -166,10 +160,10 @@ body {
   }
   .text2{
     position: absolute;
-    width: 622px;
-    height: 269px;
-    left: 741px;
-    top: 653px;
+    width: 500px;
+    height: 100px;
+    left: 800px;
+    top: 610px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: 500;
@@ -185,13 +179,73 @@ body {
   }
   .image2{
     position: absolute;
-    width: 372px;
-    height: 328px;
-    left: 228px;
-    top: 585px;
+    width: 300px;
+    height: 300px;
+    left: 250px;
+    top: 480px;
     background: #A8DADC;
     margin: 0;
     padding: 0;
   }
+  .footer-main {
+    font-style: Bold;
+    background-color: #1D3557;
+    font-size: 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+    left: 0;
+    top: 0;
+    height: 4rem;
+  }
+  .footer-main ul {
+    display: flex;
+  }
+  
+  .footer-main ul li {
+    padding: 10px;
+  }
+  
+  .footer-main ul li a {  
+    padding: 10px;
+  }
+  
+  .footer-main ul li a:hover {
+    border-bottom: 2px solid #fff;
+  }
+  .footer-main ul.fone{
+    position: absolute;
+    left: 2.01%;
+    right: 77.43%;
+    top: 29.85%;
+    bottom: 44.03%;
+    line-height: 44px
+  }
+  .footer-main ul.ftwo{
+    position: absolute;
+    left: 33.26px;
+    right: 50.28px;
+    top: 35.07px;
+    bottom: 39.55px;
+  }
+  .footer-main ul.fthree{
+    position: absolute;
+    left: 60.35px;
+    right: 23.19px;
+    top: 34.33px;
+    bottom: 40.3px;
+  }
+  .footer-main ul.ffour{
+    position: absolute;
+    left: 88.06px;
+    right: 1.74px;
+    top: 33.58px;
+    bottom: 32.84px;
+  }
+  
+
+
   
   
